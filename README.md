@@ -7,5 +7,5 @@ Przewodnik dostępny jest na stronie [stronie](diabel0.github.io/ZPW-Projekt/)
 - [Technologie](#technologie)
 - [Autorzy](#autorzy)
 
-  Technologie
+Technologie
   -HTML, CSS, javascript, git, github
